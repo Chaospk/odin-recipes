@@ -1,0 +1,9 @@
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+  background-color: rgba(17, 146, 133, 0.527);
+}
+h1,
+h2 {
+  color: azure;
+  font-weight: 800;
+}
